@@ -2,7 +2,7 @@
 
 ## Background
 
-![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
+![Citi-Bikes](Images\citi-bike-station-bikes.jpg)
 
 Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
@@ -18,4 +18,4 @@ Tableau is a very effective tool to create interactive data visualizations very 
 
 ## Link to my public Tableau
 
-![Tableau-story](https://public.tableau.com/views/CitiBikeAnalytics_16217385864140/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
+[Tableau-story](https://public.tableau.com/views/CitiBikeAnalytics_16217385864140/Story1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
